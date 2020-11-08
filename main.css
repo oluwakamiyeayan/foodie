@@ -23,7 +23,9 @@ img{
     display: flex;
 }
 .container{
-    background-image: url(images/IMG-20200901-WA0001.jpg),url(images/IMG-20200830-WA0015.jpg);
+    background-image: url(images/IMG-20200901-WA0001.jpg);
+    background-color: rgb (0, 0, 0);
+    opacity:0.5;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -54,7 +56,4 @@ nav ul{
     text-align: center;
     padding: 14px 16px;
     font-size: 1em;
-}
-.wrap{
-    background-image: url(images/IMG-20200830-WA0015.jpg);
 }
