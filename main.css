@@ -23,7 +23,7 @@ img{
     width: 5em;
     display: flex;
 }
-.container{
+.mid{
     background-image: url(images/IMG-20200901-WA0001.jpg);
     background-color: rgb (0, 0, 0);
     opacity:0.5;
